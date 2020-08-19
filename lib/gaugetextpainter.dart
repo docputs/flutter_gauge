@@ -8,8 +8,8 @@ class GaugeTextPainter extends CustomPainter {
   final hourTickMarkLength = 30.0;
   final minuteTickMarkLength = 0.0;
 
-  final hourTickMarkWidth = 1.5;
-  final minuteTickMarkWidth = 1.0;
+  final hourTickMarkWidth = 10.5;
+  final minuteTickMarkWidth = 10.0;
 
   final Paint tickPaint;
   final TextPainter textPainter;
